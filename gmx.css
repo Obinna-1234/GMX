@@ -1,0 +1,167 @@
+body{
+	margin: 0;
+	padding: 10px 0px -3px 0px;
+	background: url("https://images.unsplash.com/photo-1710934594777-d6fd3a5d39c1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzMHx8fGVufDB8fHx8fA%3D%3D");
+	background-repeat: no-repeat;
+	background-size: cover;	
+
+}
+.header{
+	color: #fff;
+	background-color: #00224D;
+	padding-bottom: 2px;
+	padding-top: 1px;
+	font-family:comfortaa;
+}
+#span1{
+	background-color: #fff;
+	font-family:comfortaa;
+	color: #00224D;
+	padding: -0px 2px 3px 2px;
+	clip-path: rect()
+}
+.header1{
+	font-size: 24px;
+	padding: 0 16px;
+}
+
+.para{
+	padding: 0 42px 0;
+}
+.header2{
+	display:flex;
+	padding: 0 121px;
+	margin-top: -111px;
+	color: #fff;
+}
+#span{
+	margin-top: 27px;
+	padding: 0 13px;
+}
+#iono{
+	margin-top: 20px;
+	padding: 0 -7px;
+}
+#gmx{
+	font-size: 24px;
+	font-weight: bolder;
+}
+.section2{
+	margin-top: 180px;
+	text-align: center;
+	background-color:lightgray;
+	padding: 36px 0px 17px 0px;
+	margin: 225px 470px 0px 470px;
+}
+.header3{
+	color: #fff;
+	margin: 0px 630px 0px 170px;
+	background-color:navy;
+	padding-bottom: 7px;
+	padding-top: 16px;
+	font-family:comforta;
+}
+}
+#span2{
+	background-color: #fff;
+	font-family:comfortaa;
+	color: #00224D;
+	padding: -0px 2px 3px 2px;
+	clip-path: rect()
+}
+.center{
+	text-align: center;
+}
+.heading{
+	margin-top: -6px;
+	padding-right: 75px;
+	font-size: 31px;
+	color: #fff;
+	font-family: comfortaa;
+}
+.move{
+	margin-top: -57px;
+	margin-left: 104px;
+	font-family: comfortaa;
+	color: #fff;
+	padding: 4px 5px;
+}
+#let{
+	border:2px solid white;
+	margin-right: 5px;
+}
+.blue{
+	background-color:navy;
+	margin: 5px 566px 0px 101px;
+	padding: 0px 215px 0px 10px;
+}
+.sign{
+	color:navy;
+	font-size: 23px;
+	font-family: comfortaa;
+	margin-top: 15px;
+}
+.login{
+	margin-right:20px;
+}
+.center h4{
+	margin-right: 236px;
+	color:navy;
+	font-family: comfortaa;
+}
+#ssl{
+	color:#74E291;
+	padding: 
+}
+ input{
+	padding: 14px 83px;
+}
+.down{
+	margin-top: 20px;
+}
+button{
+	padding: 10px 141px;
+	margin-top: 10px;
+	background-color: blue;
+	border-style: none;
+	border-radius: 6px;
+	color: #fff;
+}
+button:hover{
+	background-color: #fff;
+	color: #000;
+}
+.coffee{
+	background-color: brown;
+	margin-right: 0px;
+}
+.header3 #span2{
+	background-color: #fff;
+	color: #00224D;
+	font-size: 25px;
+}
+.background nav ul li{
+	text-align: center;
+	list-style-type: none;
+	justify-content: flex-end;
+	display: inline-flex;
+	text-align: center;
+	padding: 0 49px;
+	margin: 48px 10px 12px 15px;
+}
+.background{
+	background-color: lightgrey;
+	padding: 10px 103px;
+	margin-top: 150px;
+	font-family: comfortaa;
+	font-size: 15px;
+}
+.and{
+	text-align: center;
+	margin-top: 41px;
+	background-color: purple;
+	color: #fff;
+	margin-left: 553px;
+	margin-right: 517px;
+	padding: 5px 8px 5px 8px;
+}
